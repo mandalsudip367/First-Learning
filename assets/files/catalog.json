@@ -1,0 +1,52 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 13 Pro Max",
+            "desc": "Apple iPhone 13th Generation",
+            "price": 1299,
+            "color": "#33505a",
+            "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1631858727/Croma%20Assets/Communication/Mobiles/Images/243535_7_myyo5g.png/mxw_2048,f_auto"
+        },
+        {
+            "id": 2,
+            "name": "MacBook Pro 16",
+            "desc": "Apple iMac 13th Generation",
+            "price": 1499,
+            "color": "#33505a",
+            "image": "https://d2xamzlzrdbdbn.cloudfront.net/products/d66abcbd-cbf3-4b01-86b9-715cb7ff880821211207_416x416.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Google Pixel 6 Pro",
+            "desc": "Apple iPhone 13th Generation",
+            "price": 1099,
+            "color": "#33505a",
+            "image": "https://m.media-amazon.com/images/I/8116d+CC3yL._SL1500_.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Alienware x17 R2",
+            "desc": "Apple iPhone 13th Generation",
+            "price": 5999,
+            "color": "#33505a",
+            "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/alienware-notebooks/alienware-x17-r2/media-gallery/laptop-alienware-x17-r2-nonlit-touchpad-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=402&qlt=100,0&resMode=sharp2&size=402,402"
+        },
+        {
+            "id": 5,
+            "name": "iMac",
+            "desc": "Apple iPhone 13th Generation",
+            "price": 1299,
+            "color": "#33505a",
+            "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1606072817/Croma%20Assets/Computers%20Peripherals/Desktops/Images/8970007642142.png/mxw_2048,f_auto"
+        },
+        {
+            "id": 6,
+            "name": "Red Magic 6",
+            "desc": "Apple iPhone 13th Generation",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://fdn2.gsmarena.com/vv/pics/zte/zte-nubia-red-magic-6-1.jpg"
+        }
+    ]
+}
